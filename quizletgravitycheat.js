@@ -21,6 +21,7 @@ function solve(){
 
 	}, 100);
 }
+// Was designed to be a practical joke for a private quizlet with my friends, not as a way to cheat academically. Please do not use to cheat academically
 // Copyright (c) 2020 Ryan Gilbert
 
 // Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -41,4 +42,4 @@ function solve(){
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 // SOFTWARE.
 
-// This code and it's author is not affilliated or endorsed by Quizlet.com
+// This code and it's author is not affiliated or endorsed by Quizlet.com
